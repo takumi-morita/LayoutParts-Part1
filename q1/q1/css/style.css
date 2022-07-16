@@ -1,2 +1,76 @@
 @charset "UTF-8";
 /* 回答はここから */
+
+.q1--horizontality .box {
+    width: 200px;
+    background: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.q1--horizontality .text-align {
+    display: inline-block;
+    font-size: 16px;
+    background: #a4b3e9;
+    padding: 10px;
+}
+
+.q1--horizontality .margin {
+    background: #a4b3e9;
+    width: 90px;
+    margin: 0 auto;
+    font-size: 16px;
+    padding: 10px;
+}
+
+/*----------------------------------------*/
+
+.q1--perimeter {
+    display: table;
+}
+
+.q1--perimeter .table-div {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table-div p {
+    display: inline-block;
+    font-size: 16px;
+    background: #ffffff;
+    padding: 10px;
+}
+
+
+.flex-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-div p {
+    display: inline-block;
+    font-size: 16px;
+    background: #ffffff;
+    padding: 10px;
+}
+
+
+.container {
+    position: relative;
+}
+
+.position-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.position-div p {
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px;
+    background: #a4b3e9;
+}
