@@ -17,4 +17,13 @@ ul,li {
     box-shadow: 0 0 0 6px #655;
     border-radius: 13px;
     background: #d2b48c;
+    margin-bottom: 0;
+}
+
+.text-list .text:first-child {
+    margin-left: 0;
+}
+
+.text-list .text:last-child {
+    margin-right: 0;
 }

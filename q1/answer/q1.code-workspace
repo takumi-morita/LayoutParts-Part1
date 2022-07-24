@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "..\\..\\..\\OneDrive\\デスクトップ\\研修\\第5章\\第5章 jQueryを使ってみる"
+			"path": "..\\..\\..\\jquery_practice\\q8"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "第3章 Divpuzzle上級編"
+		"liveServer.settings.multiRootWorkspaceName": "q2"
 	}
 }
